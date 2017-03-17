@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  masonry练习
+//
+//  Created by shakalaka on 16/12/7.
+//  Copyright © 2016年 shakalaka. All rights reserved.
+//
+#define MAS_SHORTHAND
+//define this constant if you want to enable auto-boxing for default syntax
+#define MAS_SHORTHAND_GLOBALS
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+/**
+ *  如果引用C语言头文件，必须加此宏判断
+ */
+#ifdef __OBJC__
+
+
+
+
+#import "Masonry.h"
+#import "UIView+EqualMargin.h"
+
+
+
+
+
+
+#endif
+
+#endif /* PrefixHeader_pch */

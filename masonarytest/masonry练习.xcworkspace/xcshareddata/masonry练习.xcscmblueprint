@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64E0896FA6CDC026654456302395290EBF9CF9C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "06C0EEAC29B201397714B3096E032DCE3585966F" : 9223372036854775807,
+    "64E0896FA6CDC026654456302395290EBF9CF9C8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BDDBD0E-7BC0-4497-B650-48B4A4B2D255",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "06C0EEAC29B201397714B3096E032DCE3585966F" : "",
+    "64E0896FA6CDC026654456302395290EBF9CF9C8" : "masonarytest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "masonry练习",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "masonry练习.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/baishikele\/masonarytest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06C0EEAC29B201397714B3096E032DCE3585966F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/tanghuan\/masonarytest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64E0896FA6CDC026654456302395290EBF9CF9C8"
+    }
+  ]
+}
